@@ -164,5 +164,40 @@ td:first-child {
 }
 
 .select-items {
-  clear: both;
+  position: relative;
+  top: 100px;
+  left: 20px;
+}
+
+.select-items input {
+  display: block;
+  margin: 10px;
+  height: 50px;
+  width: 40%;
+}
+
+.select-items input:focus {
+  background-color: lightyellow;
+}
+
+.select-items button {
+  position: relative;
+  left: 45%;
+  height: 40px;
+  background-color: lightgreen;
+}
+
+.icons div {
+  position: relative;
+  top: 200px;
+  left: 20px;
+  display: inline;
+}
+
+.icons img{
+  height: 25px;
+}
+
+.icons img:hover {
+  cursor: pointer;
 }
