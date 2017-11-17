@@ -118,8 +118,15 @@ h1 {
 
 .order-form {
 margin-top: auto;
+}
 
-
+.order-header h3{
+  width: 100%;
+  background-color: lightgrey;
+  height: 25px;
+  margin: 0px 15px 0px 5px;
+  padding-left: 10px;
+  clear: both;
 }
 
 
@@ -129,13 +136,14 @@ margin-top: auto;
   /*top: 250%;*/
   left: 50%;
   margin-right: -50%;
-  transform: translate(-50%, 50%);
+  transform: translate(-50%, 20%);
 
 
 }
 
 tr {
   border: .5px solid lightblue;
+  height: 50px;
 }
 th {
   background-color: lightgreen;
@@ -153,4 +161,8 @@ td:nth-child(2n+1) {
 td:first-child {
   background-color: lightgreen;
   font-weight: bold;
+}
+
+.select-items {
+  clear: both;
 }
