@@ -19,6 +19,7 @@ h1 {
 .mainimagearea {
   position: relative;
   display: inline-block;
+  overflow: hidden;
 }
 
 .mainimagearea p {
@@ -43,10 +44,36 @@ h1 {
 .everyday {
   position: absolute;
   top: 70%;
-  left: 60%;
+  left: 62%;
 }
 
 .half {
   float: left;
-  width: 50%
+  width: 50%;
+  padding: 10px;
+}
+
+.left p {
+  text-align: justify;
+}
+
+.grid-gallery img {
+  max-width: 50%;
+  height: 150px;
+  float: left;
+  padding: 5px;
+  object-fit: cover;
+}
+
+.grid-gallery img:hover {
+  cursor: pointer;
+}
+
+.gallery-foot img {
+  float: left;
+  height: 100px;
+  width: 25%;
+  padding: 5px;
+  object-fit: cover;
+  /*image-orientation: 180deg flip;*/
 }
