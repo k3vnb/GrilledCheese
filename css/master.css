@@ -77,3 +77,28 @@ h1 {
   object-fit: cover;
   /*image-orientation: 180deg flip;*/
 }
+.order-form {
+  /*clear: both;*/
+  /*overflow: auto;*/
+  width: 80%;
+  margin: auto;
+}
+table {
+  border-collapse: collapse;
+}
+tr {
+  border: .5px solid lightblue;
+}
+td {
+  padding-left: 3px;
+}
+
+
+td:nth-child(2n+1) {
+  background-color: lightgrey;
+}
+
+td:first-child {
+  background-color: lightgreen;
+  font-weight: bold;
+}
