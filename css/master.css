@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+.container {
+  margin: 0 100px;;
+}
+.mainimagearea {
+  position: relative;
+  display: inline-block;
+}
+.mainpic {
+  box-shadow: 0 0 10px;
+  width: 100%;
+  min-width: 300px;
+  display: block;
+}
+
+.allday {
+  position: absolute;
+  top: 10%;
+  left: 20%;
+  transform: translate( -50%, -50% );
+}
+
+.everyday {
+  position: absolute;
+  top: 80%;
+  left: 60%;
+}
