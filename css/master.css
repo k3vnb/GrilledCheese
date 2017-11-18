@@ -17,7 +17,6 @@ body {
   width: 100%;
   padding: 25px;
   height: 100px;
-  display: inline;
   overflow: hidden;
 }
 
@@ -25,6 +24,10 @@ h1 {
   text-align: center;
   position: relative;
   top: -50%;
+}
+
+h2 {
+  text-align: center;
 }
 
 .icon {
@@ -137,7 +140,6 @@ margin-top: auto;
 .order-form table {
   border-collapse: collapse;
   position: relative;
-  /*top: 250%;*/
   left: 50%;
   margin-right: -50%;
   transform: translate(-50%, 20%);
