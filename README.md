@@ -6,7 +6,12 @@
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This page is styled emphasizing the capabilities of CSS without 3rd party libraries or JavaScript embellishments. Several key criteria were met
+| Term  |      Description     |  Implementation |
+|----------|:-------------:|------:|
+| Box-sizing |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |_
 
 ## Setup/Installation Requirements
 
