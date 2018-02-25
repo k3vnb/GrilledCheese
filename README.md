@@ -1,12 +1,15 @@
 # _Grilled Cheese, All Day..._
 
-#### _A page utilizing CSS skills towards the sale of a grilled cheese sandwich, {11/17/2017}_
+#### _A page utilizing CSS skills towards the sale of a grilled cheese sandwich, 11/17/2017_
 
 #### By _**Kevin Boyle**_
 
+## Screenshot:
+![GrilledCheese](img/screenshot.png?raw=true)
+
 ## Description
 
-_This page is styled emphasizing the capabilities of CSS without 3rd party libraries or JavaScript embellishments. It can be found at https://lemurriot.github.io/GrilledCheese/. Several key criteria were met:
+This page is styled emphasizing the capabilities of CSS without 3rd party libraries or JavaScript embellishments. It can be found at https://lemurriot.github.io/GrilledCheese/. Several key criteria were met:
 
 
 
